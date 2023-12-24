@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class AccelerometerTest : MonoBehaviour
+public class test_acc_gyro : MonoBehaviour
 {
     float speed = 10.0f;
     float angularSpeed = 360.0f;
